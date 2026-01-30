@@ -8,14 +8,14 @@ const projects = [
     name: "Seals Dashboard",
     year: "Mar-2024",
     align: "right",
-    image: "/images/website-img-1.jpg",
+    image: "/images/image_1.png",
     link: "https://my-dashboard-phi-murex.vercel.app/",
   },
   {
     name: "Sudoku Game",
     year: "Sept-2023",
     align: "left",
-    image: "/images/website-img-2.webp",
+    image: "/images/image_2.png",
     link: "https://sumantgame799.netlify.app/",
   },
   {
@@ -29,7 +29,7 @@ const projects = [
     name: "Food Delivery",
     year: "May2024",
     align: "left",
-    image: "/images/website-img-4.jpg",
+    image: "/images/image_3.png",
     link: "https://food-delivery-q3oi.vercel.app/",
   },
 ];
