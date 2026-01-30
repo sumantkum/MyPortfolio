@@ -5,34 +5,32 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const experiences = [
   {
-    job: "Front-End Developer",
-    company: "Alex Apps",
-    date: "2022 - Present",
-    responsibilities: [
-      "Implementing reusable components.",
-      "Participating in large scale application.",
-      "Working on the performance of web applications.",
-      "Generating new ideas for better user experience.",
-    ],
-  },
-  {
-    job: "Course Instructor",
-    company: "Nucamp",
+    job: "Full Stack Developer (Fresher)",
+    company: "Self Projects / Practice",
     date: "2023 - Present",
     responsibilities: [
-      "Explaining and facilitating web development concepts.",
-      "Help students with their assignments and grade them weekly.",
-      "Provide support for students through their learning journey.",
+      "Developing responsive web applications using HTML, CSS, JavaScript, and React.",
+      "Building backend services and REST APIs using Node.js and Express.",
+      "Working with databases like MongoDB/MySQL ",
     ],
   },
   {
-    job: "Course Instructor",
-    company: "Sprints",
+    job: "Full Stack Developer Trainee",
+    company: "Online Courses & Training",
+    date: "2023 - 2024",
+    responsibilities: [
+      "Learning full stack development concepts through online courses and hands-on practice.",
+      "Creating mini projects to understand frontend and backend integration.",
+      "Using Git and GitHub for version control. ",
+    ],
+  },
+  {
+    job: "Frontend & Backend Developer (Projects)",
+    company: "Personal / Academic Projects",
     date: "2024 - Present",
     responsibilities: [
-      "Teaching JavaScript, React and TailwindCSS.",
-      "Participating in preparing course materials.",
-      "Helping students through their way in learning web development technologies.",
+      "Developing full stack projects using React, Node.js, and Tailwind CSS.",
+      "Designing user-friendly interfaces and connecting them with backend APIs.",
     ],
   },
 ];

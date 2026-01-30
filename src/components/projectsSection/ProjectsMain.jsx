@@ -30,7 +30,7 @@ const projects = [
     year: "May2024",
     align: "left",
     image: "/images/website-img-4.jpg",
-    link: "#",
+    link: "https://food-delivery-q3oi.vercel.app/",
   },
 ];
 
